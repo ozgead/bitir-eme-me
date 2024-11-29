@@ -1,2 +1,1 @@
-Veriler kaggle dosyasında
-linki: https://www.kaggle.com/datasets/ozgeakindoan/aircraft-detection-dataset/settings
+Dataset linki: https://www.kaggle.com/datasets/ozgeakindoan/aircraft-detection-dataset/settings
